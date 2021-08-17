@@ -1,0 +1,158 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  /*
+  line-height: 2;
+  */
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr
+{
+  margin: 100px auto 0 auto;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #Eaf6f6;
+}
+
+.copyright{
+  color: #Eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+
+p{
+  line-height: 2;
+}
+
+.skill-row{
+text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%
+}
+.snapchat{
+  float: left;
+margin-right: 30px;
+  width: 25%
+}
+
+.apple-logo{
+  float: right;
+  margin-left: 30px;
+  width: 25%
+
+}
+
+.profilepic{
+  margin: 50px auto 0 auto;
+  width: 20%;
+  
+}
+
+
+
+.myskillsheading{
+}
+
+.top-container {
+  background-color: #B5EAEA;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+
+  background-color: #B5EAEA;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.BUTTON_RWE {
+   background: #3DF6C0;
+   background-image: -webkit-linear-gradient(top, #3DF6C0, #1ED0BB);
+   background-image: -moz-linear-gradient(top, #3DF6C0, #1ED0BB);
+   background-image: -ms-linear-gradient(top, #3DF6C0, #1ED0BB);
+   background-image: -o-linear-gradient(top, #3DF6C0, #1ED0BB);
+   background-image: -webkit-gradient(to bottom, #3DF6C0, #1ED0BB);
+   -webkit-border-radius: 54px;
+   -moz-border-radius: 54px;
+   border-radius: 54px;
+   color: #FFFFFF;
+font-family: 'Merriweather', serif;
+   font-size: 23px;
+   font-weight: 400;
+   padding: 19px;
+   -webkit-box-shadow: 12px 6px 20px 0 #FFFFFF;
+   -moz-box-shadow: 12px 6px 20px 0 #FFFFFF;
+   box-shadow: 12px 6px 20px 0 #FFFFFF;
+   border: outset #FFFFFF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_RWE:hover {
+   border: solid #0059A0 0;
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
